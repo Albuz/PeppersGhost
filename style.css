@@ -1,0 +1,22 @@
+canvas {
+    margin: 0;
+    left: 0;
+    position: absolute;
+    top: 0;
+}
+
+.introScene{
+  z-index: 1;
+  position: absolute;
+  opacity: 0;
+}
+
+.logoScene{
+  width: 100px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
